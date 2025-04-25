@@ -16,17 +16,21 @@ Modulus (%): Returns the remainder after division. For example, 10 % 3 results i
 
 ### Other Important Arithmetic Operators:
 Increment (++):
+_______________
 
 Increases the value of a variable by 1. For example, x++ increases the value of the variable x by 1. 
 
 Decrement (--):
+_______________
 
 Decreases the value of a variable by 1. For example, x-- decreases the value of the variable x by 1.
 
 Exponentiation ()
+_________________
 
 :** Raises a number to a power. For example, 2 ** 3 results in 8 (2 to the power of 3).
 
 Floor Division (//):
+____________________
 
 Divides and returns the integer part of the result. For example, 15 // 3 results in 5.
